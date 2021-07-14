@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Choki12
 - 👀 I’m interested in game and mobile development 
 - 🌱 I’m currently learning Xamarin, MonoGame, C#
-- 💞️ I’m looking to collaborate on simple game development projects and mobile development projects.
+- 💞️ I’m looking to collaborate on simple game development projects, web application projects and mobile development projects.
 - 📫 How to reach me email: tumanechoki@gmail.com 
 
 <!---
